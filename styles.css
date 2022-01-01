@@ -23,7 +23,7 @@ html {
   display: flex;
   justify-content: flex-start;flex-direction: column;
   align-items: center;
-  gap: 2em;
+  gap: 1em;
 
   background-color: #222;
 } 
@@ -117,4 +117,10 @@ html {
     width: 50vh;
     height: 50vh;
   }
+
+  .info {
+    margin: 0;
+  }
+
+
 }
