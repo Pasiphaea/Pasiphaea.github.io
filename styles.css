@@ -110,6 +110,11 @@ html {
 
 @media screen and (max-width: 576PX) {
   .infodiv {
-    width: 60%;
+    width: 100%;
+  }
+
+  .table {
+    width: 50vh;
+    height: 50vh;
   }
 }
